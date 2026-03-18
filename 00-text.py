@@ -1,7 +1,7 @@
 import streamlit as st
 
 # 타이틀
-st.title("안녕하세요. 스파르타코딩클럽 김연준입니다")
+st.title("안녕하세요. 김우주입니다")
 st.title('스마일 :sunglasses:')
 
 # 헤더
